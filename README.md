@@ -31,3 +31,7 @@ A ideia é bem simples, queremos um aplicativo que nos mostre todos os personage
 - Faça um fork desse repósitorio.
 - Publique o teste no expo.io e disponibilize o QRCode no README do projeto
 - Após isso, é conosco!
+
+## QR CODE PROJETO
+
+<img src="../../WorkSpace/desafio-mobile-superlogica/assets/qrcode.png">
