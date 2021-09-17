@@ -34,4 +34,4 @@ A ideia é bem simples, queremos um aplicativo que nos mostre todos os personage
 
 ## QR CODE PROJETO
 
-<img src="../../WorkSpace/desafio-mobile-superlogica/assets/qrcode.png">
+<img src="./assets/qrcode.png">
